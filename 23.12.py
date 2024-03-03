@@ -1,0 +1,13 @@
+print("Hi")
+names = ("prashant,sushant")
+print(names[0:8])
+print(names[:8])
+print(names[:])
+print(names)
+print(names[:-3])
+print(names[-6:])
+print(names[-8:])
+print(len(names))
+nm = "Harry"
+print(nm[-4: -2])
+print(names[6:-7])

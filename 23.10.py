@@ -1,0 +1,7 @@
+a = input("Enter your name\n")
+print("MY name is :" + a)
+print("MY name is :", a)
+c = input("Enter first number\n")
+d = input("Enter second number\n")
+print(int(c) + int(d))
+print(float(c) + float(d))

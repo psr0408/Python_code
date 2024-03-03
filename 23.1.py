@@ -1,0 +1,8 @@
+a = input("Enter the number\n")
+b = input("Enter the number\n")
+c = float(a) + float(b)
+print("The sum of first and second number is:", c)
+print("Hi this is  \"Prashant Singh Thakur\"")
+print("Hi this is 'Prashant Singh Thakur'")
+print('Hi this is \'Prashant Singh Thakur\'')
+print('hi')
